@@ -1,4 +1,4 @@
 # hello-world
 I'm bored.
 
-It's strange.
+It's okay.
