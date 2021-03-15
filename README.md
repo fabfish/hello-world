@@ -1,4 +1,2 @@
 # hello-world
-I'm bored.
-
-It's strange.
+It's a hello-world repo built by fabfish.
